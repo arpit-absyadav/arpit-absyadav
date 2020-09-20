@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arpit Yadav!   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.yapsody.com">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="http://www.yapsody.com">Yapsody</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
@@ -14,13 +14,34 @@
 npx arpit
 ```
 
-## I'm a Developer!
-- 🔭 I’m currently working on a ...🤣
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute to Open Source projects.
-- 🥅 2020 Goals: Tech content writing and video courses.
-- ⚡ Fun fact: I love to draw, sing and poetry.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
+```javascript
+const arpit = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Golang", "Dart", ],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Architecture"],
+    technologies: {
+        mobileApp: ["Flutter"],
+        frontEnd: {
+            js: ["Angular 6+", "ejs"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "mongoose", "sequelize"],
+            ts: ["nestjs"]
+        },
+        devOps: ["AWS", "Docker🐳", "Heroku", "Nginx", "CI/CD"],
+        databases: ["mongo", "MySql", "sqlite", "redis"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    editors:["vs-code"],
+    os:["debain", "ubuntu"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Golang and flutter",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 ### Connect with me:
 
 [<img align="left" alt="arpit.absyadav.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
