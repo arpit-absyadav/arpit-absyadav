@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arpit Yadav!   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.yapsody.com">Yapsody</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="http://www.yapsody.com">Yapsody</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
@@ -58,8 +58,6 @@ const arpit = {
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
@@ -72,3 +70,39 @@ const arpit = {
 [website]: https://arpit.absyadav.github.io
 [twitter]: https://twitter.com/arpit.absyadv
 [linkedin]: https://linkedin.com/in/arpit.absyadav
+
+
+📅 **I'm Most Productive on Sunday**
+
+```text
+Monday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76%
+Wednesday    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.37%
+Thursday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22%
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
+Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
+Sunday       106 commits    █████░░░░░░░░░░░░░░░░░░░░   20.74%
+
+```
+
+
+📊 **This Week I Spent My Time On**
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+JavaScript               8 hrs 27 mins       ██████████████████░░░░░░░   71.56%
+JSON                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.33%
+Vue.js                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.28%
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
+
+🔥 Editors:
+WebStorm                 11 hrs 49 mins      █████████████████████████   100.0%
+
+💻 Operating System:
+Windows                  11 hrs 49 mins      █████████████████████████   100.0%
+
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-absyadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
