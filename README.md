@@ -4,9 +4,9 @@
 <p><em>Software Engineer at <a href="http://www.yapsody.com">Yapsody</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-![Twitter Follow](https://)
-[![Linkedin: Arpit](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitabsyadav/)](https://www.linkedin.com/in/anmol-p-singh/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://arpit-absyadav.github.io/)](https://arpit-absyadav.github.io)
+![Twitter Follow](https://www.linkedin.com/in/arpitabsyadav/)
+[![Linkedin: Arpit](https://www.linkedin.com/in/arpitabsyadav/)](https://www.linkedin.com/in/arpit.absyadav/)
+[![website](https://arpit-absyadav.github.io/)](https://arpit-absyadav.github.io)
 
 👇 Hit in your console or terminal to connect with me.
 
