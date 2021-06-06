@@ -19,6 +19,7 @@ npx arpityadav
 ```javascript
 const arpit = {
     pronouns: "He" | "Him",
+    website: "https://arpit-absyadav.github.io"
     code: ["Javascript", "Typescript", "Golang", "Dart", ],
     askMeAbout: ["Web Dev", "Mobile Apps", "Technologies", "Cloud & Software Architecture",],
     technologies: {
