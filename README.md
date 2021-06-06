@@ -11,7 +11,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx arpit
+npx arpityadav
 ```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -20,24 +20,24 @@ npx arpit
 const arpit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Golang", "Dart", ],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Architecture"],
+    askMeAbout: ["Web Dev", "Mobile Apps", "Technologies", "Cloud & Software Architecture",],
     technologies: {
         mobileApp: ["Flutter"],
-        frontEnd: {
-            js: ["Angular 6+", "ejs"],
-            css: ["materialize", "bootstrap"]
-        },
         backEnd: {
             js: ["node", "express", "mongoose", "sequelize"],
-            ts: ["nestjs"]
+            ts: ["nestjs", "express"]
         },
-        devOps: ["AWS", "Docker🐳", "Heroku", "Nginx", "CI/CD"],
-        databases: ["mongo", "MySql", "sqlite", "redis"],
+        frontEnd: {
+            js: ["React", "Angular 6+", "ejs"],
+            css: ["bootstrap", "materialize"]
+        },
+        devOps: ["AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx"],
+        databases: ["MongoDB", "MySql", "Sqlite", "Redis"],
         misc: ["Firebase", "Socket.IO"]
     },
     editors:["vs-code"],
     os:["debain", "ubuntu"],
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Microservice", "Serverless", "PWA", "SPA"],
     currentFocus: "Golang and flutter",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
@@ -56,13 +56,16 @@ const arpit = {
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
-JavaScript                  ███████████████░░░░░░░░░░   55%
-TypeScript/Angular          ██████████░░░░░░░░░░░░░░░   30%
-JSON                        ███░░░░░░░░░░░░░░░░░░░░░░   6%
-Golang                      █░░░░░░░░░░░░░░░░░░░░░░░░   5%
-HTML                        █░░░░░░░░░░░░░░░░░░░░░░░░   4%
-CSS                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1%
+💬 Programming Languages / Framworks /Technologies:
+JavaScript                  ████████████████████████░   98%
+TypeScript                  █████████████████████░░░░   90%
+ANGULAR                     ████████████░░░░░░░░░░░░░   50%
+REACT                       █████████████████░░░░░░░░   67%
+Golang                      █████████░░░░░░░░░░░░░░░░   40%
+HTML                        █████████████████████████   100%
+CSS                         ███████████████████░░░░░░   80%
+DOCKER                      █████████████████░░░░░░░░   75%
+FLUTTER                     ████████████████░░░░░░░░░   70%
 
 🔥 Editors:
 Vs Code                     █████████████████████████   100.0%
