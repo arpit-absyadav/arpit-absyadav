@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arpit Yadav!   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://arpit-absaydav.github.io">Freelance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Software Engineer at <a href="http://arpit-absyadav.github.io">Freelance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 ![Twitter Follow](https://www.linkedin.com/in/arpitabsyadav/)
@@ -29,11 +29,11 @@ const arpit = {
             ts: ["nestjs", "express"]
         },
         frontEnd: {
-            js: ["React", "Angular 6+", "ejs"],
-            css: ["bootstrap", "materialize"]
+            js: ["React", "Angular 6+"],
+            css: ["Bootstrap", "Materialize", "Tailwind]
         },
         devOps: ["AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx"],
-        databases: ["MongoDB", "MySql", "Sqlite", "Redis"],
+        databases: ["MongoDB", "MySql", "Sqlite", "Redis", "DynamoDb"],
         misc: ["Firebase", "Socket.IO"]
     },
     editors:["vs-code"],
