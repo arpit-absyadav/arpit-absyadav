@@ -22,8 +22,8 @@ const arpit = {
     technologies: {
         mobileApp: ["Flutter"],
         backEnd: {
-            js: ["node", "express", "mongoose", "sequelize"],
-            ts: ["nestjs", "express"]
+            js: ["NodeJs", "ExpressJs"],
+            ts: ["NestJs", "Express"]
         },
         frontEnd: {
             js: ["React", "Angular 6+"],
