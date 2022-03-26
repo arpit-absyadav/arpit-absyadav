@@ -1,12 +1,9 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Arpit Yadav!   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p><em>Software Engineer at <a href="http://arpit-absyadav.github.io">Freelance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-![Twitter Follow](https://www.linkedin.com/in/arpitabsyadav/)
-[![Linkedin: Arpit](https://www.linkedin.com/in/arpitabsyadav/)](https://www.linkedin.com/in/arpit.absyadav/)
-[![website](https://arpit-absyadav.github.io/)](https://arpit-absyadav.github.io)
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -36,18 +33,21 @@ const arpit = {
         databases: ["MongoDB", "MySql", "Sqlite", "Redis", "DynamoDb"],
         misc: ["Firebase", "Socket.IO"]
     },
-    editors:["vs-code"],
-    os:["debain", "ubuntu"],
+    editors:["VS Code"],
+    os:["Debian", "Ubuntu"],
     architecture: ["Microservice", "Serverless", "PWA", "SPA"],
-    currentFocus: "Golang and flutter",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Golang and flutter"
 };
 ```
 ### Connect with me:
 
-[<img align="left" alt="arpit.absyadav.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="arpit.absyadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="arpit.absyadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[![Twitter: Follow](https://img.shields.io/badge/-@arpitabsyadav-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/arpitabsyadav/)](https://www.twitter.com/arpitabsyadav/)
+[![Linkedin: Arpitabsyadav](https://img.shields.io/badge/-arpitabsyadav-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitabsyadav/)](https://www.linkedin.com/in/arpitabsyadav/)
+[![Github: Followers](https://img.shields.io/badge/-arpit_abs_yadav-blue?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/arpit-absyadav/)](https://github.com/arpit-absyadav/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://arpit-absyadav.github.io//)](https://arpit-absyadav.github.io//)
+[![resume](https://img.shields.io/badge/Download_Resume-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://github.com/arpit-absyadav/resume/raw/master/Arpit%20Yadav.pdf/)](https://github.com/arpit-absyadav/resume/raw/master/Arpit%20Yadav.pdf/)
 
 <br />
 <br />
@@ -57,16 +57,16 @@ const arpit = {
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages / Framworks /Technologies:
-JavaScript                  ████████████████████████░   98%
-TypeScript                  █████████████████████░░░░   90%
-ANGULAR                     ████████████░░░░░░░░░░░░░   50%
-REACT                       █████████████████░░░░░░░░   67%
+💬 Programming Languages / Frameworks / Technologies:
+NodeJs                      ████████████████████████░   95%
+JavaScript                  ████████████████████████░   95%
+TypeScript                  █████████████████████░░░░   80%
+AWS                         ██████████████████░░░░░░░   65%
+REACT                       █████████████████████░░░░   75%
+MySql                       ████████████████████░░░░░   67%
+MongoDb                     ███████████████████░░░░░░   70%
 Golang                      █████████░░░░░░░░░░░░░░░░   40%
-HTML                        █████████████████████████   100%
-CSS                         ███████████████████░░░░░░   80%
-DOCKER                      █████████████████░░░░░░░░   75%
-FLUTTER                     ████████████████░░░░░░░░░   70%
+Flutter                     ████████████████░░░░░░░░░   60%
 
 🔥 Editors:
 Vs Code                     █████████████████████████   100.0%
@@ -79,16 +79,25 @@ Debian                      █████████████████�
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img align="left" alt="Express" width="130px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="Sass" width="140px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="JavaScript" width="140px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
+<br/>
+<br/>
+<img align="left" alt="Mysql" width="100px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="Mongo" width="128px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="GitLab" width="108px" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img align="left" alt="Github" width="108px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="Bootstrap" width="138px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<br/>
+<br/>
+<img align="left" alt="Flutter" width="120px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left" alt="Debian" width="111px" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img align="left" alt="Debian" width="227px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <br />
 <br />
 
