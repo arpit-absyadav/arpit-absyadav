@@ -87,12 +87,13 @@ Debian                      █████████████████�
 
 <br/>
 <br/>
+<section>
 <img align="left" alt="Mysql" width="100px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="Mongo" width="128px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="GitLab" width="108px" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img align="left" alt="Github" width="108px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Bootstrap" width="138px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
+</section>
 <br/>
 <br/>
 <section>
