@@ -104,8 +104,19 @@ Debian                      █████████████████�
 </section>
 <br />
 <br />
+<br />
+<br />
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=arpit-absyadav&theme=dark)
+
+<br />
+<br />
+
 
 <img align="left" alt="Arpit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpit-absyadav&show_icons=true&hide_border=true" />
+
+
+
 
 [website]: https://arpit.absyadav.github.io
 [twitter]: https://twitter.com/arpit.absyadv
