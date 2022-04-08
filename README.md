@@ -107,7 +107,7 @@ Debian                      █████████████████�
 <br />
 <br />
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=arpit-absyadav&theme=dark)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=arpit-absyadav)
 
 <br />
 <br />
