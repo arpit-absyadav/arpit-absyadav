@@ -3,6 +3,9 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p><em>Software Engineer at <a href="http://arpit-absyadav.github.io">Freelance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=arpit-absyadav&style=for-the-badge">
+</a>
 
 
 👇 Hit in your console or terminal to connect with me.
@@ -43,6 +46,8 @@ const arpit = {
 
 
 
+
+
 [![Twitter: Follow](https://img.shields.io/badge/-@arpitabsyadav-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/arpitabsyadav/)](https://www.twitter.com/arpitabsyadav/)
 [![Linkedin: Arpitabsyadav](https://img.shields.io/badge/-arpitabsyadav-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitabsyadav/)](https://www.linkedin.com/in/arpitabsyadav/)
 [![Github: Followers](https://img.shields.io/badge/-arpit_abs_yadav-blue?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/arpit-absyadav/)](https://github.com/arpit-absyadav/)
@@ -76,6 +81,10 @@ Debian                      █████████████████�
 
 ```
 <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-absyadav&layout=compact&hide=php,c,html,roff&langs_count=10" alt="arpit-absyadav" />
+</p>
+
 
 ### Languages and Tools:
 
@@ -107,11 +116,13 @@ Debian                      █████████████████�
 <br />
 <br />
 
-<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=arpit-absyadav) -->
 
-<br />
-<br />
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=arpit-absyadav)
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-absyadav&layout=compact" />
+</p>
 
 <img align="left" alt="Arpit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpit-absyadav&show_icons=true&hide_border=true" />
 
