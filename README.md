@@ -21,7 +21,7 @@ const arpit = {
     pronouns: "He" | "Him",
     website: "https://arpit-absyadav.github.io",
     code: ["Javascript", "Typescript", "Golang", "Dart", ],
-    askMeAbout: ["Web Dev", "Mobile Apps", "Technologies", "Cloud & Software Architecture",],
+    askMeAbout: ["Web Dev", "Mobile Apps", "Technologies", "Cloud & Solution Architecture",],
     technologies: {
         mobileApp: ["Flutter"],
         backEnd: {
@@ -32,14 +32,14 @@ const arpit = {
             js: ["React", "Angular 6+"],
             css: ["Bootstrap", "Materialize", "Tailwind]
         },
-        devOps: ["AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx"],
+        devOps: ["Microservice", "AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx"],
         databases: ["MongoDB", "MySql", "Sqlite", "Redis", "DynamoDb"],
         misc: ["Firebase", "Socket.IO"]
     },
     editors:["VS Code"],
     os:["Debian", "Ubuntu"],
     architecture: ["Microservice", "Serverless", "PWA", "SPA"],
-    currentFocus: "Golang and flutter"
+    currentFocus: "Golang and Solution Architecture"
 };
 ```
 ### Connect with me:
