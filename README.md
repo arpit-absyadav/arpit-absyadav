@@ -20,25 +20,25 @@ npx arpityadav
 const arpit = {
     pronouns: "He" | "Him",
     website: "https://arpit-absyadav.github.io",
-    code: ["Javascript", "Typescript", "Golang", "Dart", ],
-    askMeAbout: ["Web Dev", "Mobile Apps", "Technologies", "Cloud & Solution Architecture",],
+    code: [ "Javascript", "Typescript", "Golang", "Dart" ],
+    askMeAbout: [ "Web Dev", "Mobile Apps", "Technologies", "Cloud & Solution Architecture" ],
     technologies: {
-        mobileApp: ["Flutter"],
+        mobileApp: [ "Flutter" ],
         backEnd: {
-            js: ["NodeJs", "ExpressJs"],
-            ts: ["NestJs", "Express"]
+            js: [ "NodeJs", "ExpressJs" ],
+            ts: [ "NestJs", "Express" ]
         },
         frontEnd: {
-            js: ["React", "Angular 6+"],
-            css: ["Bootstrap", "Materialize", "Tailwind]
+            js: [ "React", "Angular 6+" ],
+            css: [ "Tailwind", "Bootstrap", "Materialize" ]
         },
-        devOps: ["Microservice", "AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx"],
-        databases: ["MongoDB", "MySql", "Sqlite", "Redis", "DynamoDb"],
-        misc: ["Firebase", "Socket.IO"]
+        devOps: [ "Microservice", "AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx" ],
+        databases: [ "MongoDB", "MySql", "Sqlite", "Redis", "DynamoDb" ],
+        misc: [ "Firebase", "Socket.IO" ]
     },
-    editors:["VS Code"],
-    os:["Debian", "Ubuntu"],
-    architecture: ["Microservice", "Serverless", "PWA", "SPA"],
+    editors:[ "VS Code" ],
+    os:[ "Debian", "Ubuntu" ],
+    architecture: [ "Microservice", "Serverless", "PWA", "SPA" ],
     currentFocus: "Golang and Solution Architecture"
 };
 ```
