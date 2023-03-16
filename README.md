@@ -118,7 +118,7 @@ Debian                      █████████████████�
 
 
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=arpit-absyadav)
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=arpit-absyadav) -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-absyadav&layout=compact" />
