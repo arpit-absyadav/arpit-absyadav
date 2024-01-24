@@ -18,28 +18,29 @@ npx arpityadav
 
 ```javascript
 const arpit = {
-    website: "https://arpit-absyadav.github.io",
-    code: [ "Javascript", "Typescript", "Golang", "Dart" ],
-    askMeAbout: [ "Web Dev", "Mobile Apps", "Technologies", "Cloud & Solution Architecture" ],
-    technologies: {
-        mobileApp: [ "Flutter" ],
-        backEnd: {
-            js: [ "NodeJs", "ExpressJs" ],
-            ts: [ "NestJs", "Express" ]
-        },
-        frontEnd: {
-            js: [ "React", "Angular 6+" ],
-            css: [ "Tailwind", "Bootstrap", "Materialize" ]
-        },
-        devOps: [ "Microservice", "AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx" ],
-        databases: [ "MongoDB", "MySql", "Sqlite", "Redis", "DynamoDb" ],
-        misc: [ "Firebase", "Socket.IO" ]
+  "website": "https://arpit-absyadav.github.io",
+  "code": [ "Javascript", "Typescript", "Golang", "Dart" ],
+  "askMeAbout": [ "Web Dev", "Mobile Apps", "Technologies", "Cloud & Solution Architecture" ],
+  "technologies": {
+    "mobileApp": [ "Flutter" ],
+    "backEnd": {
+      "js": [ "NodeJs", "ExpressJs" ],
+      "ts": [ "NestJs", "Express" ]
     },
-    editors:[ "VS Code" ],
-    os:[ "Debian", "Ubuntu" ],
-    architecture: [ "Microservice", "Serverless", "PWA", "SPA" ],
-    currentFocus: "Golang and Solution Architecture"
+    "frontEnd": {
+      "js": [ "React", "Angular 6+" ],
+      "css": [ "Tailwind", "Bootstrap", "Materialize" ]
+    },
+    "devOps": [ "Microservice", "AWS", "Docker", "CI/CD", "Heroku", "Nginx" ],
+    "databases": [ "MongoDB", "MySQL", "SQLite", "Redis", "DynamoDB" ],
+    "misc": [ "Firebase", "Socket.IO" ]
+  },
+  "editors": [ "VS Code" ],
+  "os": [ "Debian", "Ubuntu" ],
+  "architecture": [ "Microservice", "Serverless", "PWA", "SPA" ],
+  "currentFocus": "Golang and Solution Architecture"
 };
+
 ```
 ### Connect with me:
 
